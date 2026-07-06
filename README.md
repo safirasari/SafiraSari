@@ -4,11 +4,8 @@
 
 Hello! 
 
-I'm a University student in Computer Science.
+I'm a Full Stack Developer with a Bachelor in Computer Science.
 
-
-## Skills
-Java, Python, HTML, CSS, JavaScript, PHP, C, Clojure, Erlang
 
 <!--
 **SafiraSari/SafiraSari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
